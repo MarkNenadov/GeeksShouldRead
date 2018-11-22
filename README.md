@@ -23,7 +23,7 @@ The Craft
 ---------
 
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Robert Martin {If you care about your craft, please read this! I stop (slightly) short of saying all developers should be forced to read this at gunpoint.}
-* [Implementation Patterns] (https://www.goodreads.com/book/show/781559.Implementation_Patterns) by Kent Beck {Broadly applicable, but the examples are all in Java. Those working in the Java 8+ world will find some (thankfully) outdated suggestions here.  Nevertheless, it serves well as a guide for Junior Developers. It should be very basic review for a competent Senior Developer.}
+* [Implementation Patterns](https://www.goodreads.com/book/show/781559.Implementation_Patterns) by Kent Beck {Broadly applicable, but the examples are all in Java. Those working in the Java 8+ world will find some (thankfully) outdated suggestions here.  Nevertheless, it serves well as a guide for Junior Developers. It should be very basic review for a competent Senior Developer.}
 * [What To Look For In A Code Review](https://www.goodreads.com/book/show/28942299-what-to-look-for-in-a-code-review) by Trisha Gee
 
 Agile Development
@@ -37,7 +37,7 @@ Javascript
 
 * [Secrets of the JavaScript Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja) by John Resig {I'm not a big jQuery fan, but there's a fair deal to learn about Javascript concepts like closures here.}
 * [TypeScript Deep Dive](https://www.goodreads.com/book/show/29634529-typescript-deep-dive?from_search=true) by Basarat Ali Syed {Use Typescript and, while you are at it, you might as well read this book to get started.}
-* [Pro TypeScript: Application-Scale JavaScript Development] (https://www.goodreads.com/book/show/36808711-pro-typescript) by Steve Fenton {A must-read for Javascript programmers}
+* [Pro TypeScript: Application-Scale JavaScript Development](https://www.goodreads.com/book/show/36808711-pro-typescript) by Steve Fenton {A must-read for Javascript programmers}
 * [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017) by Axel Rauschmayer
 
 Java
