@@ -22,8 +22,9 @@ Software Engineering
 The Craft
 ---------
 
-* [1] [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Robert Martin {If you care about your craft, please read this! I stop (slightly) short of saying all developers should be forced to read this at gunpoint.}
-* [2] [Implementation Patterns] (https://www.goodreads.com/book/show/781559.Implementation_Patterns) by Kent Beck {Broadly applicable, but the examples are all in Java. Those working in the Java 8+ world will find some (thankfully) outdated suggestions here.  Nevertheless, it serves well as a guide for Junior Developers. It should be very basic review for a competent Senior Developer.}
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Robert Martin {If you care about your craft, please read this! I stop (slightly) short of saying all developers should be forced to read this at gunpoint.}
+* [Implementation Patterns] (https://www.goodreads.com/book/show/781559.Implementation_Patterns) by Kent Beck {Broadly applicable, but the examples are all in Java. Those working in the Java 8+ world will find some (thankfully) outdated suggestions here.  Nevertheless, it serves well as a guide for Junior Developers. It should be very basic review for a competent Senior Developer.}
+* [What To Look For In A Code Review](https://www.goodreads.com/book/show/28942299-what-to-look-for-in-a-code-review) by Trisha Gee
 
 Agile Development
 -----------------
@@ -34,24 +35,32 @@ Agile Development
 Javascript
 ----------
 
-* [2] [Secrets of the JavaScript Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja) by John Resig {I'm not a big jQuery fan, but there's a fair deal to learn about Javascript concepts like closures here.}
-* [2] [TypeScript Deep Dive](https://www.goodreads.com/book/show/29634529-typescript-deep-dive?from_search=true) by Basarat Ali Syed {Use Typescript and, while you are at it, you might as well read this book to get started.}
-* [2] [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017) by Axel Rauschmayer
+* [Secrets of the JavaScript Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja) by John Resig {I'm not a big jQuery fan, but there's a fair deal to learn about Javascript concepts like closures here.}
+* [TypeScript Deep Dive](https://www.goodreads.com/book/show/29634529-typescript-deep-dive?from_search=true) by Basarat Ali Syed {Use Typescript and, while you are at it, you might as well read this book to get started.}
+* [Pro TypeScript: Application-Scale JavaScript Development] (https://www.goodreads.com/book/show/36808711-pro-typescript) by Steve Fenton {A must-read for Javascript programmers}
+* [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017) by Axel Rauschmayer
 
 Java
 ----
 	
-* [1] [Java 8 in Action](https://www.goodreads.com/book/show/20534354-java-8-in-action?ac=1&from_search=true) by  Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft {Even though Java 8 is not so new any more, this is an engaging read and is helpful in grasping streams. This should remain a good guide to some of the "Post Java 8" concepts. }
-
+* [Java 8 in Action](https://www.goodreads.com/book/show/20534354-java-8-in-action?ac=1&from_search=true) by  Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft {Even though Java 8 is not so new any more, this is an engaging read and is helpful in grasping streams. This should remain a good guide to some of the "Post Java 8" concepts. }
+* [Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications](https://www.goodreads.com/book/show/36200568-java-9-modularity) by Sander Mak {This is continuing to be relevant in Java 11 and beyond}
 
 Kotlin
 ------
 
-* [2] Kotlin in Action {Solid guide to a fun language.}
+* Kotlin in Action {Solid guide to a fun language.}
 
 
-Databases
-=========
+Data
+====
+
+* [Learning Graphql: Declarative Data Fetching for Modern Web Apps](https://www.goodreads.com/book/show/37588199-learning-graphql) by Eve Procello {Basic intro}
+
+Version Control
+===============
+
+* [Learning Git In A Month of Lunches] by Rick Umali
 
 Biographies (of People and Businesses)
 ======================================
@@ -75,9 +84,14 @@ Self Help & Productivity
 Privacy and Freedom
 ===================
 
-* [2] [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.goodreads.com/book/show/30363785-the-art-of-invisibility) by Kevin Mitnick
+* [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.goodreads.com/book/show/30363785-the-art-of-invisibility) by Kevin Mitnick
 
 Security
 ========
 
-* [3] [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital WeaponCountdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon] (https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
+* [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital WeaponCountdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon] (https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
+
+Hard To Categorize
+==================
+
+* [Antifragile: Things That Gain from Disorder] (https://www.goodreads.com/book/show/13530973-antifragile) by Nassim Nicholas Taleb (A profound multi-discipline read)
