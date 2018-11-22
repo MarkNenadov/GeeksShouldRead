@@ -60,7 +60,8 @@ Data
 Version Control
 ===============
 
-* [Learning Git In A Month of Lunches] by Rick Umali
+* [Learning Git In A Month of Lunches](https://www.goodreads.com/book/show/26778698-learn-git-in-a-month-of-lunches) by Rick Umali
+* [Git in Practice] (https://www.goodreads.com/book/show/22299846-git-in-practice) by Mike McQuaid {Not a particularily great read, but informative and ok}
 
 Biographies (of People and Businesses)
 ======================================
@@ -79,7 +80,7 @@ Self Help & Productivity
 * [The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit) by Charles Duhigg
 * [The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More FunThe Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun](https://www.goodreads.com/book/show/6398634-the-happiness-project) by Gretchen Rubin
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work) by Cal Newport
-* [Time Management for System Administrators: Stop Working Late and Start Working SmartTime Management for System Administrators: Stop Working Late and Start Working Smart](Time Management for System Administrators: Stop Working Late and Start Working Smart) by Thomas Limoncelli
+* [Time Management for System Administrators: Stop Working Late and Start Working Smart](https://www.goodreads.com/book/show/376236.Time_Management_for_System_Administrators?ac=1&from_search=true) by Thomas Limoncelli
 
 Privacy and Freedom
 ===================
