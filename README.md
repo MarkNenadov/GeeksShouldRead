@@ -49,7 +49,7 @@ Java
 Kotlin
 ------
 
-* Kotlin in Action {Solid guide to a fun language.}
+* [Kotlin in Action](https://www.goodreads.com/book/show/29242249-kotlin-in-action?from_search=true) {Solid guide to a fun language.}
 
 
 Data
@@ -90,9 +90,9 @@ Privacy and Freedom
 Security
 ========
 
-* [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital WeaponCountdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon] (https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
+* [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital WeaponCountdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
 
 Hard To Categorize
 ==================
 
-* [Antifragile: Things That Gain from Disorder] (https://www.goodreads.com/book/show/13530973-antifragile) by Nassim Nicholas Taleb (A profound multi-discipline read)
+* [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile) by Nassim Nicholas Taleb (A profound multi-discipline read)
