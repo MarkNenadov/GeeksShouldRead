@@ -61,7 +61,7 @@ Version Control
 ===============
 
 * [Learning Git In A Month of Lunches](https://www.goodreads.com/book/show/26778698-learn-git-in-a-month-of-lunches) by Rick Umali
-* [Git in Practice] (https://www.goodreads.com/book/show/22299846-git-in-practice) by Mike McQuaid {Not a particularily great read, but informative and ok}
+* [Git in Practice](https://www.goodreads.com/book/show/22299846-git-in-practice) by Mike McQuaid {Not a particularily great read, but informative and ok}
 
 Biographies (of People and Businesses)
 ======================================
