@@ -50,7 +50,17 @@ Kotlin
 ------
 
 * [Kotlin in Action](https://www.goodreads.com/book/show/29242249-kotlin-in-action?from_search=true) {Solid guide to a fun language.}
+* [The Joy of Kotlin](https://www.goodreads.com/book/show/41968682-the-joy-of-kotlin) by Pierre-Yves Saumont {Excellent}
 
+Dev-Ops
+=======
+
+* [Zero to One Hundred Deploys a Day](https://www.goodreads.com/book/show/61334077-zero-to-one-hundred-deploys-a-day) by Dylan Etkin {THought provoking and practical}
+
+UI
+==
+
+* [Refactoring UI](https://www.goodreads.com/book/show/43190966-refactoring-ui) by Adam Wathan (Excellent)
 
 Data
 ====
@@ -70,6 +80,11 @@ Biographies (of People and Businesses)
 * [Idea Man](https://www.goodreads.com/book/show/10139649-idea-man) by Paul Allen 
 * [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic FutureElon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/22535480-elon-musk) by Ashlee Vance
 * [iWoz](https://www.goodreads.com/book/show/5558.iWoz) by Steve Wozniak {Meh, not a huge fan of the book...but it is Woz!}
+
+Management
+==========
+
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier {Helpful}
 
 Self Help & Productivity
 =========================
